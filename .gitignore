@@ -1,0 +1,44 @@
+# Presenter notes (kept local, not shared)
+FACILITATOR.md
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.DocumentRevisions-V100
+.VolumeIcon.icns
+Icon?
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.stackdump
+
+# Linux
+*~
+.directory
+.Trash-*
+.fuse_hidden*
+.nfs*
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Office lock files
+~$*
+.~lock.*#
